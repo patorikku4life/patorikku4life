@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @patorikku4life
+- 👀 I’m interested in nothing.
+- 🌱 I’m currently learning Data Analyses on Azure
