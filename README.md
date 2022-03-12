@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @patorikku4life
-- 👀 I’m interested in nothing.
+- 👀 I’m interested in everthing generally and nothing specifically.
 - 🌱 I’m currently learning Data Analyses on Azure
